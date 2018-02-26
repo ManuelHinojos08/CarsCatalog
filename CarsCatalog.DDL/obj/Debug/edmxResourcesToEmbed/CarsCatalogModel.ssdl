@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarCatalogModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AcountTypes">
+    <Key>
+      <PropertyRef Name="AccountTypeId" />
+    </Key>
+    <Property Name="AccountTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ads">
+    <Key>
+      <PropertyRef Name="AdsId" />
+    </Key>
+    <Property Name="AdsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VehicleType" Type="int" Nullable="false" />
+    <Property Name="Brand" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Year" Type="int" Nullable="false" />
+    <Property Name="MileageKM" Type="int" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Estado" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Municipio" Type="nvarchar" MaxLength="250" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="ImageId" />
+    </Key>
+    <Property Name="ImageId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FileName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="AdsId" Type="int" Nullable="false" />
+    <Property Name="FileReference" Type="nvarchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="250" />
+    <Property Name="Password" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="100" />
+    <Property Name="AccountTypeId" Type="int" Nullable="false" />
+    <Property Name="FacebookToken" Type="nvarchar" MaxLength="500" />
+    <Property Name="Active" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VehicleTypes">
+    <Key>
+      <PropertyRef Name="VehicleType" />
+    </Key>
+    <Property Name="VehicleType" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Ads_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Ads" Type="Self.Ads" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Ads">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ads_VehicleType">
+    <End Role="VehicleTypes" Type="Self.VehicleTypes" Multiplicity="1" />
+    <End Role="Ads" Type="Self.Ads" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VehicleTypes">
+        <PropertyRef Name="VehicleType" />
+      </Principal>
+      <Dependent Role="Ads">
+        <PropertyRef Name="VehicleType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Images_Ads">
+    <End Role="Ads" Type="Self.Ads" Multiplicity="1" />
+    <End Role="Images" Type="Self.Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ads">
+        <PropertyRef Name="AdsId" />
+      </Principal>
+      <Dependent Role="Images">
+        <PropertyRef Name="AdsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_AccountTypes">
+    <End Role="AcountTypes" Type="Self.AcountTypes" Multiplicity="1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcountTypes">
+        <PropertyRef Name="AccountTypeId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="AccountTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CarCatalogModelStoreContainer">
+    <EntitySet Name="AcountTypes" EntityType="Self.AcountTypes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ads" EntityType="Self.Ads" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Images" EntityType="Self.Images" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VehicleTypes" EntityType="Self.VehicleTypes" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Ads_Users" Association="Self.FK_Ads_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Ads" EntitySet="Ads" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ads_VehicleType" Association="Self.FK_Ads_VehicleType">
+      <End Role="VehicleTypes" EntitySet="VehicleTypes" />
+      <End Role="Ads" EntitySet="Ads" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Images_Ads" Association="Self.FK_Images_Ads">
+      <End Role="Ads" EntitySet="Ads" />
+      <End Role="Images" EntitySet="Images" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_AccountTypes" Association="Self.FK_Users_AccountTypes">
+      <End Role="AcountTypes" EntitySet="AcountTypes" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

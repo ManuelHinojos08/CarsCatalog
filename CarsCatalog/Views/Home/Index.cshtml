@@ -1,0 +1,134 @@
+﻿@Scripts.Render("~/bundles/jquery")
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <input type="file" id="myFile" multiple="multiple">
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>ASP.NET Web API is a framework that makes it easy to build HTTP services that reach
+        a broad range of clients, including browsers and mobile devices. ASP.NET Web API
+        is an ideal platform for building RESTful applications on the .NET Framework.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301870">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301871">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301872">Learn more &raquo;</a></p>
+    </div>
+</div>
+<script>
+    var imagesColection = new Array();
+    var imgsCount;
+    $(document).ready(function () {
+        $("#myFile").change(function () {
+            imgsCount = this.files.length;
+            //for (var i = 0; i < this.files.length; i++) {                
+            //    getBase64(this.files[i]);
+            //}
+            parseData(this.files);
+        });
+
+        //function getBase64(file) {            
+        //    var reader = new FileReader();
+        //    reader.readAsDataURL(file);
+        //    reader.onload = function () {
+        //        debugger;
+        //        imagesColection.push({
+        //            "FileName": "",
+        //            "FileStream": reader.result
+        //        });
+        //        if (imagesColection.length == imgsCount)
+        //        {
+        //            var newAd = {
+        //                "VehicleType": 1,
+        //                "Brand": "Dodge",
+        //                "Model": "Neon",
+        //                "Year": 1999,
+        //                "MileageKM": 199009,
+        //                "Price": 25500.99,
+        //                "UserId": 2,
+        //                "Images": imagesColection
+        //            };
+        //            debugger;
+        //            $.ajax
+        //            ({
+        //                type: "POST",
+        //                url: "http://localhost:50865/api/Ads/CreateAd",
+        //                contentType: 'application/json',
+        //                dataType: "json",
+        //                data: JSON.stringify(newAd),
+        //                success: function (data) {
+        //                    debugger;
+        //                },
+        //                beforeSend: function (xhr) {
+        //                    /* Authorization header */
+        //                    xhr.setRequestHeader("Authorization", "Basic R2FtYVNFOmdhbWE=")
+        //                },
+        //            });
+        //        }
+        //    };
+        //    reader.onerror = function (error) {
+        //        debugger;
+        //        console.log('Error: ', error);
+        //    };
+        //}
+
+        function parseData(entries) {
+            for (var i = 0; i < entries.length; i++) {
+                var reader = new FileReader();                
+                reader.onloadend = (function (file) {
+                    return function (evt) {
+                        createListItem(evt, file)
+                    };
+                })(entries[i]);
+                reader.readAsDataURL(entries[i]);
+            }
+        }
+        function createListItem(evt, file) {            
+            imagesColection.push({
+                "FileName": file.name,
+                "FileStream": evt.target.result
+            });
+            if (imagesColection.length == imgsCount) {
+                var newAd = {
+                    "VehicleType": 1,
+                    "Brand": "Dodge",
+                    "Model": "Neon",
+                    "Year": 1999,
+                    "MileageKM": 199009,
+                    "Price": 25500.99,
+                    "UserId": 2,
+                    "Images": imagesColection,
+                    "AdsId": 1,
+                    "EditingUserId": 2,                    
+                    "Estado": "Chihuahua",
+                    "Municipio": "Chihuahua"
+                };
+                debugger;
+                $.ajax
+                ({
+                    type: "POST",
+                    url: "http://localhost:50865/api/Ads/UpdateAds",
+                    contentType: 'application/json',
+                    dataType: "json",
+                    data: JSON.stringify(newAd),
+                    success: function (data) {
+                        debugger;
+                    },
+                    beforeSend: function (xhr) {
+                        /* Authorization header */
+                        xhr.setRequestHeader("Authorization", "Basic R2FtYVNFOmdhbWE=")
+                    },
+                });
+            }
+        }
+    });
+</script>

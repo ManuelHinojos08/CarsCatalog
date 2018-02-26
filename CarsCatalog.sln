@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsCatalog", "CarsCatalog\CarsCatalog.csproj", "{8D1449F4-A909-47A5-AB2D-3D16813F8FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsCatalog.BBL", "CarsCatalog.BBL\CarsCatalog.BBL.csproj", "{8B30C13D-2BED-4629-A8FB-091934061AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsCatalog.DDL", "CarsCatalog.DDL\CarsCatalog.DDL.csproj", "{085A6D79-37DB-4764-A5B0-4D8BBA3C3BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1449F4-A909-47A5-AB2D-3D16813F8FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1449F4-A909-47A5-AB2D-3D16813F8FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1449F4-A909-47A5-AB2D-3D16813F8FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1449F4-A909-47A5-AB2D-3D16813F8FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B30C13D-2BED-4629-A8FB-091934061AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B30C13D-2BED-4629-A8FB-091934061AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B30C13D-2BED-4629-A8FB-091934061AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B30C13D-2BED-4629-A8FB-091934061AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085A6D79-37DB-4764-A5B0-4D8BBA3C3BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085A6D79-37DB-4764-A5B0-4D8BBA3C3BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085A6D79-37DB-4764-A5B0-4D8BBA3C3BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085A6D79-37DB-4764-A5B0-4D8BBA3C3BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

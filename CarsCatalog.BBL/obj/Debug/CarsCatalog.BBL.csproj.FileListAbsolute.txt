@@ -1,0 +1,36 @@
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\CarsCatalog.BBL.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\CarsCatalog.BBL.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\AWSSDK.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\CarsCatalog.DDL.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\EntityFramework.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\CarsCatalog.DDL.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\AWSSDK.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\EntityFramework.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.csprojResolveAssemblyReference.cache
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.pdb
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.BBL.dll
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.BBL.pdb
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\AWSSDK.dll
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.DDL.dll
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\EntityFramework.dll
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.DDL.pdb
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\AWSSDK.pdb
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\EntityFramework.xml
+D:\CarsCatalog\Code\CarsCatalog.BBL\bin\Debug\es\EntityFramework.resources.dll
+D:\CarsCatalog\Code\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.csprojResolveAssemblyReference.cache
+D:\CarsCatalog\Code\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.dll
+D:\CarsCatalog\Code\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.BBL.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.BBL.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\AWSSDK.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.DDL.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\EntityFramework.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\CarsCatalog.DDL.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\AWSSDK.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\EntityFramework.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.csprojResolveAssemblyReference.cache
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog.BBL\obj\Debug\CarsCatalog.BBL.pdb

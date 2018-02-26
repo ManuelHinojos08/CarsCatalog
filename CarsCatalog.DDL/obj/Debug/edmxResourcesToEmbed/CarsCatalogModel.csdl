@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarCatalogModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AcountTypes">
+    <Key>
+      <PropertyRef Name="AccountTypeId" />
+    </Key>
+    <Property Name="AccountTypeId" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Users_AccountTypes" FromRole="AcountTypes" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Ads">
+    <Key>
+      <PropertyRef Name="AdsId" />
+    </Key>
+    <Property Name="AdsId" Type="Int32" Nullable="false" />
+    <Property Name="VehicleType" Type="Int32" Nullable="false" />
+    <Property Name="Brand" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Year" Type="Int32" Nullable="false" />
+    <Property Name="MileageKM" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Ads_Users" FromRole="Ads" ToRole="Users" />
+    <NavigationProperty Name="VehicleTypes" Relationship="Self.FK_Ads_VehicleType" FromRole="Ads" ToRole="VehicleTypes" />
+    <NavigationProperty Name="Images" Relationship="Self.FK_Images_Ads" FromRole="Ads" ToRole="Images" />
+    <Property Name="Estado" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Municipio" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="ImageId" />
+    </Key>
+    <Property Name="ImageId" Type="Int32" Nullable="false" />
+    <Property Name="FileName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AdsId" Type="Int32" Nullable="false" />
+    <Property Name="FileReference" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Ads" Relationship="Self.FK_Images_Ads" FromRole="Images" ToRole="Ads" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="AccountTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AcountTypes" Relationship="Self.FK_Users_AccountTypes" FromRole="Users" ToRole="AcountTypes" />
+    <NavigationProperty Name="Ads" Relationship="Self.FK_Ads_Users" FromRole="Users" ToRole="Ads" />
+    <Property Name="FacebookToken" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Active" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VehicleTypes">
+    <Key>
+      <PropertyRef Name="VehicleType" />
+    </Key>
+    <Property Name="VehicleType" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Ads" Relationship="Self.FK_Ads_VehicleType" FromRole="VehicleTypes" ToRole="Ads" />
+  </EntityType>
+  <Association Name="FK_Users_AccountTypes">
+    <End Role="AcountTypes" Type="Self.AcountTypes" Multiplicity="1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcountTypes">
+        <PropertyRef Name="AccountTypeId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="AccountTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ads_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Ads" Type="Self.Ads" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Ads">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ads_VehicleType">
+    <End Role="VehicleTypes" Type="Self.VehicleTypes" Multiplicity="1" />
+    <End Role="Ads" Type="Self.Ads" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VehicleTypes">
+        <PropertyRef Name="VehicleType" />
+      </Principal>
+      <Dependent Role="Ads">
+        <PropertyRef Name="VehicleType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Images_Ads">
+    <End Role="Ads" Type="Self.Ads" Multiplicity="1" />
+    <End Role="Images" Type="Self.Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ads">
+        <PropertyRef Name="AdsId" />
+      </Principal>
+      <Dependent Role="Images">
+        <PropertyRef Name="AdsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CarCatalogEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AcountTypes" EntityType="Self.AcountTypes" />
+    <EntitySet Name="Ads" EntityType="Self.Ads" />
+    <EntitySet Name="Images" EntityType="Self.Images" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <EntitySet Name="VehicleTypes" EntityType="Self.VehicleTypes" />
+    <AssociationSet Name="FK_Users_AccountTypes" Association="Self.FK_Users_AccountTypes">
+      <End Role="AcountTypes" EntitySet="AcountTypes" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ads_Users" Association="Self.FK_Ads_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Ads" EntitySet="Ads" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ads_VehicleType" Association="Self.FK_Ads_VehicleType">
+      <End Role="VehicleTypes" EntitySet="VehicleTypes" />
+      <End Role="Ads" EntitySet="Ads" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Images_Ads" Association="Self.FK_Images_Ads">
+      <End Role="Ads" EntitySet="Ads" />
+      <End Role="Images" EntitySet="Images" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

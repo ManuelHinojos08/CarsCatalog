@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CarCatalogModelStoreContainer" CdmEntityContainer="CarCatalogEntities">
+    <EntitySetMapping Name="AcountTypes">
+      <EntityTypeMapping TypeName="CarCatalogModel.AcountTypes">
+        <MappingFragment StoreEntitySet="AcountTypes">
+          <ScalarProperty Name="AccountTypeId" ColumnName="AccountTypeId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ads">
+      <EntityTypeMapping TypeName="CarCatalogModel.Ads">
+        <MappingFragment StoreEntitySet="Ads">
+          <ScalarProperty Name="Municipio" ColumnName="Municipio" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="AdsId" ColumnName="AdsId" />
+          <ScalarProperty Name="VehicleType" ColumnName="VehicleType" />
+          <ScalarProperty Name="Brand" ColumnName="Brand" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="MileageKM" ColumnName="MileageKM" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="CarCatalogModel.Images">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="ImageId" ColumnName="ImageId" />
+          <ScalarProperty Name="FileName" ColumnName="FileName" />
+          <ScalarProperty Name="AdsId" ColumnName="AdsId" />
+          <ScalarProperty Name="FileReference" ColumnName="FileReference" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="CarCatalogModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FacebookToken" ColumnName="FacebookToken" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="AccountTypeId" ColumnName="AccountTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VehicleTypes">
+      <EntityTypeMapping TypeName="CarCatalogModel.VehicleTypes">
+        <MappingFragment StoreEntitySet="VehicleTypes">
+          <ScalarProperty Name="VehicleType" ColumnName="VehicleType" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

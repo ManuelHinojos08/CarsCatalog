@@ -1,0 +1,357 @@
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\obj\Debug\CarsCatalog.csprojResolveAssemblyReference.cache
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\ApplicationInsights.config
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\csc.exe
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\vbc.exe
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\VBCSCompiler.exe
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.dll.config
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Antlr3.Runtime.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.BBL.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.DDL.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\EntityFramework.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\EntityFramework.SqlServer.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.Web.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Newtonsoft.Json.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Owin.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Net.Http.Formatting.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Helpers.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Http.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Http.Owin.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Http.WebHost.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Mvc.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Optimization.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Razor.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.WebPages.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.WebPages.Razor.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\WebGrease.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\AWSSDK.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.BBL.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\CarsCatalog.DDL.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.Web.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Newtonsoft.Json.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Net.Http.Formatting.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Helpers.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Http.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Http.WebHost.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Mvc.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Optimization.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Razor.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.WebPages.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.WebPages.Razor.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Antlr3.Runtime.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\EntityFramework.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\EntityFramework.SqlServer.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\System.Web.Http.Owin.xml
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\AWSSDK.pdb
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Http.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Optimization.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Razor.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.WebPages.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\EntityFramework.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\obj\Debug\CarsCatalog.dll
+C:\Users\manue\documents\visual studio 2015\Projects\CarsCatalog\CarsCatalog\obj\Debug\CarsCatalog.pdb
+D:\CarsCatalog\Code\CarsCatalog\bin\ApplicationInsights.config
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\csc.exe
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\System.Collections.Immutable.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\System.Reflection.Metadata.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\vbc.exe
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\VBCSCompiler.exe
+D:\CarsCatalog\Code\CarsCatalog\bin\roslyn\VBCSCompiler.exe.config
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.dll.config
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.pdb
+D:\CarsCatalog\Code\CarsCatalog\bin\Antlr3.Runtime.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.BBL.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.DDL.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\EntityFramework.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\EntityFramework.SqlServer.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.DependencyCollector.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.Web.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.WindowsServer.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.ApplicationInsights.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Google.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Web.Infrastructure.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Newtonsoft.Json.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\Owin.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Net.Http.Formatting.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Helpers.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Http.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Http.Owin.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Http.WebHost.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Mvc.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Optimization.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Razor.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.WebPages.Deployment.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.WebPages.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.WebPages.Razor.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\WebGrease.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\AWSSDK.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.BBL.pdb
+D:\CarsCatalog\Code\CarsCatalog\bin\CarsCatalog.DDL.pdb
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.DependencyCollector.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.Web.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AI.WindowsServer.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.ApplicationInsights.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Newtonsoft.Json.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Net.Http.Formatting.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Helpers.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Http.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Http.WebHost.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Mvc.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Optimization.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Razor.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.WebPages.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.WebPages.Deployment.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.WebPages.Razor.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Antlr3.Runtime.pdb
+D:\CarsCatalog\Code\CarsCatalog\bin\EntityFramework.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\EntityFramework.SqlServer.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Google.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\System.Web.Http.Owin.xml
+D:\CarsCatalog\Code\CarsCatalog\bin\AWSSDK.pdb
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Net.Http.Formatting.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Helpers.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Http.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Http.WebHost.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Mvc.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Optimization.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Razor.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.WebPages.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\EntityFramework.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\EntityFramework.SqlServer.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\bin\es\System.Web.Http.Owin.resources.dll
+D:\CarsCatalog\Code\CarsCatalog\obj\Debug\CarsCatalog.csprojResolveAssemblyReference.cache
+D:\CarsCatalog\Code\CarsCatalog\obj\Debug\CarsCatalog.dll
+D:\CarsCatalog\Code\CarsCatalog\obj\Debug\CarsCatalog.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\ApplicationInsights.config
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\csc.exe
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\vbc.exe
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\VBCSCompiler.exe
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.dll.config
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Antlr3.Runtime.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.BBL.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.DDL.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\EntityFramework.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\EntityFramework.SqlServer.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.Web.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Newtonsoft.Json.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Owin.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Net.Http.Formatting.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Helpers.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Http.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Http.Owin.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Http.WebHost.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Mvc.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Optimization.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Razor.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.WebPages.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.WebPages.Razor.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\WebGrease.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\AWSSDK.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.BBL.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\CarsCatalog.DDL.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.Web.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Newtonsoft.Json.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Net.Http.Formatting.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Helpers.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Http.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Http.WebHost.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Mvc.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Optimization.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Razor.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.WebPages.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.WebPages.Razor.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Antlr3.Runtime.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\EntityFramework.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\EntityFramework.SqlServer.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\System.Web.Http.Owin.xml
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\AWSSDK.pdb
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Http.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Razor.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\EntityFramework.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\obj\Debug\CarsCatalog.csprojResolveAssemblyReference.cache
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\obj\Debug\CarsCatalog.dll
+C:\Users\ManuelH2\Documents\CarCatalogs\Code\CarsCatalog\obj\Debug\CarsCatalog.pdb
